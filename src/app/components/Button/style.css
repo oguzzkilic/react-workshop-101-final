@@ -1,0 +1,21 @@
+.button {
+  font-weight: normal;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background: dodgerblue;
+  line-height: 1;
+  display: block;
+  align-items: center;
+  vertical-align: middle;
+  justify-content: center;
+  white-space: nowrap;
+  user-select: none;
+  font-size: 16px;
+  border-radius: 5px;
+  color: #fff;
+  width: 100%;
+  padding: 10px 0;
+  max-width: 100px;
+  text-align: center;
+}
